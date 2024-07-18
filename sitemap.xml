@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nucleo-linux-uagrm.github.io/gallery/</loc>
+    <loc>https://nucleo-linux-uagrm.github.io/minunux/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>https://nucleo-linux-uagrm.github.io/categories/</loc>
+    <loc>https://nucleo-linux-uagrm.github.io/minunux/categories/</loc>
   </url><url>
-    <loc>https://nucleo-linux-uagrm.github.io/</loc>
+    <loc>https://nucleo-linux-uagrm.github.io/minunux/</loc>
   </url><url>
-    <loc>https://nucleo-linux-uagrm.github.io/tags/</loc>
+    <loc>https://nucleo-linux-uagrm.github.io/minunux/tags/</loc>
   </url>
 </urlset>
